@@ -11,3 +11,4 @@ You should NOT try to redefine any of the above variables.
 
 const newID;
 const ageIsValid = currentAge.isInteger();
+let randomNumber = Math.random(20);
